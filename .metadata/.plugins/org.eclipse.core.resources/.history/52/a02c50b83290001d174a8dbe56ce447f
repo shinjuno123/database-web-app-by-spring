@@ -1,0 +1,13 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Save Customer</title>
+	<link type="type/css" rel="stylesheet" href="${pageContext.request.contextPath}">
+</head>
+<body>
+customer form ... placeholder
+</body>
+
+</html>
